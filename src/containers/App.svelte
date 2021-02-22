@@ -7,11 +7,11 @@
   export let equipo1 = {
     nombre: 'azul',
     jugadores: [
-      'Chay Norris',
-      'BorisRP',
-      'DrGallu',
-      'Javirup',
-      'firebird17'
+      'Jugador1',
+      'Jugador2',
+      'Jugador3',
+      'Jugador4',
+      'Jugador5'
     ]
   }
   export let equipo2 = {
