@@ -1,13 +1,13 @@
 {
-  "name": "pugstagram",
+  "name": "loldrafts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
-    "start": "webpack serve --open"
+    "start": "webpack serve --open --mode development"
   },
-  "author": "Eddy <algo@email.com>",
+  "author": "Eddy <edwardyue93@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "svelte": "^3.32.3"
