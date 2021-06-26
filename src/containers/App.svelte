@@ -24,8 +24,6 @@
       'Jugador5'
     ]
   }
-
-
 </script>
 
 <Map />

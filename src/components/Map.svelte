@@ -6,6 +6,6 @@
 
 <style>
     img {
-        height: 40vh;
+        height: 60vh;
     }
 </style>
